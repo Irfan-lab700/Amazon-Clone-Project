@@ -1,0 +1,14 @@
+.loader{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    background-color:hotpink;
+    border : 10px solid grey;
+    border-top:10px solid black;
+    animation: change 3s ease-in 0s infinite normal;
+}
+
+@keyframes change{
+    from{transform: rotate(0deg);}
+    to{transform: rotate(360deg);}
+}

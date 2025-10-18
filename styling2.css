@@ -1,0 +1,53 @@
+
+#navbar{
+    height : 60px;
+    width : 1500px;
+    background-color: black;
+}
+button{
+    background-color:beige;
+    color :brown;
+    margin-right: 0px;
+}
+#logo{
+    color:rgb(108, 171, 211);
+}
+#Account{
+    color:burlywood;
+}
+#My{
+    color:burlywood;
+}
+#contact{
+    color :burlywood;
+}
+#input{
+    color :black;
+    background-color: white;
+    margin-right: 0px;
+
+}
+a{
+    margin-right: 200px;
+}
+.contentBox{
+    height : 100px;
+    width : 100px;
+    border : 2px solid black;
+    display :inline-block;
+    position: relative;
+    top: 20px;
+
+}
+#content{
+    height:500px;
+    font-family:'Times New Roman', Times, serif;
+    color :rgb(62, 28, 3);
+    background-image: url(IMG_2723.jpeg);
+    background-size: contain;
+}
+footer{
+    background-color: black;
+    color : white;
+    text-align: center;
+}
