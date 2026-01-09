@@ -22,4 +22,4 @@ CSS
 Built to strengthen frontend fundamentals such as layout structuring, flexbox, and responsive design.
 
 #Live Demo:
-https://amazing-twilight-0b6e34.netlify.app/
+https://irfan-lab700.github.io/Amazon-Clone-Project/
